@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DbD</string>
+    <string name="titre">How to play "Dead by Daylight"</string>
+    <string name="perso1">Survivant</string>
+    <string name="perso2">Tueur</string>
+    <string name="choisir">Choisissez votre personnage :</string>
+    <string name="descr">Description : </string>
+</resources>
